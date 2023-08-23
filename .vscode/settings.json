@@ -1,0 +1,7 @@
+{
+  "cmake.environment": {
+  "PICO_SDK_PATH": "/Users/vishal.kumar/Documents/iot/pico/pico-sdk",
+  "PICO_EXTRAS_PATH": "/Users/vishal.kumar/Documents/iot/pico/pico-extras"
+  },
+  "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}
